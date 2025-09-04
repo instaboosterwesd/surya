@@ -7,9 +7,9 @@
         "allowOffline": true
     },
     {
-        "id": "5a285f5aad7d55ef",
-        "username": "1",
-        "password": "1",
+        "KEY_ID": "5a285f5aad7d55ef",
+        "KEY_USER": "1",
+        "KEY_PASS": "1",
         "expiresAt": "2030-09-02",
         "allowOffline": true
     }
