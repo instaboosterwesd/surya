@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "c",
+        "username": "c",
+        "password": "c",
+        "expiresAt": "0033-03-31",
+        "allowOffline": true
+    }
+]
