@@ -2,13 +2,6 @@
     {
         "id": "5ae0f73430fb07e8",
         "username": "Surya",
-        "password": "8080",
-        "expiresAt": "2025-09-06",
-        "allowOffline": true
-    },
-    {
-        "id": "5ae0f73430fb07e8",
-        "username": "Surya",
         "password": "9080",
         "expiresAt": "2025-09-10",
         "allowOffline": true
