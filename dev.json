@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "3a1511ffcf1127c3",
+        "username": "0",
+        "password": "0",
+        "expiresAt": "2028-09-05",
+        "allowOffline": true
+    }
+]
