@@ -5,5 +5,12 @@
         "password": "1",
         "expiresAt": "2030-09-09",
         "allowOffline": true
+    },
+    {
+        "id": "7427346563f43a73",
+        "username": "dev",
+        "password": "1",
+        "expiresAt": "2025-10-11",
+        "allowOffline": true
     }
 ]
