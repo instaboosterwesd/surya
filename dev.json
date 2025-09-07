@@ -19,5 +19,12 @@
         "password": "3",
         "expiresAt": "2026-09-09",
         "allowOffline": true
+    },
+    {
+        "id": "3a1511ffcf1127c3",
+        "username": "T",
+        "password": "1",
+        "expiresAt": "2025-11-29",
+        "allowOffline": true
     }
 ]
