@@ -19,5 +19,12 @@
         "password": "1",
         "expiresAt": "2025-09-30",
         "allowOffline": true
+    },
+    {
+        "id": "7dab6a6e2d169364",
+        "username": "stark",
+        "password": "1",
+        "expiresAt": "2025-09-10",
+        "allowOffline": true
     }
 ]
