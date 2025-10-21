@@ -19,5 +19,12 @@
         "password": "77",
         "expiresAt": "2025-10-30",
         "allowOffline": true
+    },
+    {
+        "id": "bce0201aeb6175d3",
+        "username": "QQ",
+        "password": "12",
+        "expiresAt": "2025-10-31",
+        "allowOffline": true
     }
 ]
